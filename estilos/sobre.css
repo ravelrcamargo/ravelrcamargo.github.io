@@ -1,0 +1,23 @@
+
+main div{
+  width: 100%;
+}
+table{
+    width: 100%;
+    background-color: white;
+}
+table thead th{
+    background-color: rgba(7, 126, 7, 0.452);
+    border: solid 1px black
+}
+table tbody tr td{
+    border: solid 1px black;
+    
+    
+}
+table tbody tr:nth-child(even){
+background-color: rgba(147, 211, 122, 0.815);
+}
+table tfoot tr td{
+    border: solid 1px black;
+}

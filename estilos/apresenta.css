@@ -1,0 +1,13 @@
+body{
+    background-color:   #e0f0fa ;
+ }
+
+nav a{
+    float: right;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
